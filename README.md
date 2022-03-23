@@ -15,7 +15,7 @@ It Includes different tables:
 - Patrons: FirstName ,	LastName ,	Email ,	PatronID(PK)
 
 - Loans  : LoanID(PK)	 , BookID(FK) ,	PatronID(FK)	, LoanDate ,	DueDate	 , ReturnedDate
-- 
+
 ## Tools : 
 - Python with SQLite sqlite3 , Pandas 
 
