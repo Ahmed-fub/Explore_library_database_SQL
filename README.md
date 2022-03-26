@@ -1,4 +1,4 @@
-# Explore_library_db_SQLite
+# Explore_library_database_SQL
 
 ## Data 
 Library data base  
@@ -20,7 +20,7 @@ It Includes different tables:
 - Python with SQLite sqlite3 , Pandas 
 
 
-## challenges
+## Tasks performed on this project
 
 1. Explore the available of some books in library
 2. Insert new copies from some books to Library to Books table 
